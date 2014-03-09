@@ -25,10 +25,12 @@ La aplicacion consta de dos partes principales
 2- Recoger un mensaje en la playa:
 	En esta seccion el usuario recoge un mensaje del mar donde puede o no encontrar un mensaje
 	en su playa (*1). Una ves que se recoje un mensaje el usuario tiene 4 opciones:
-		a- Leerlo
-		b- Devolverlo al mar
-		c- Destruirlo
-		d- Responderlo
+
+			a- Leerlo
+			b- Devolverlo al mar
+			c- Destruirlo
+			d- Responderlo
+
 	a- Al leer el mensaje este queda en un baul de mensajes a la espera de una de las opciones
 		siguientes.
 	a- Devolverlo al mar: en este caso el mensaje no sufre ningun cambio y es devuelto al mar
@@ -37,6 +39,7 @@ La aplicacion consta de dos partes principales
 		mensajes y sin posibilidad de las otras opciones.
 	c- Responder el mensaje es la parte mas cuestionable del sistema, dando lugar a dos formas
 		de trabajo.
+
 		c.1- Responder el mensaje directamente a quien lo escribio.
 		c.2- Responder el mensaje y volver a arrojarlo al mar.
 
